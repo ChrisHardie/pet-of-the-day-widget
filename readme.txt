@@ -20,6 +20,8 @@ Note that the plugin loads content from a third-party site via iframe, and so ma
 
 Want to help make this plugin better? <a href="https://github.com/ChrisHardie/pet-of-the-day-widget">Pull requests are welcome</a>.
 
+Rabbit icon by Sara Saedi from the Noun Project.
+
 == Installation ==
 
 1. Upload the `pet-of-the-day-widget` folder to the `/wp-content/plugins/` directory

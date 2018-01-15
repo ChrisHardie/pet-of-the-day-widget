@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Pet of the Day Widget
-Plugin URI:
+Plugin URI: https://github.com/ChrisHardie/pet-of-the-day-widget
 Description: Display an Adopt-a-Pet.com pet of the day in a widget
 Version: 1.0
 Author: Chris Hardie
