@@ -10,7 +10,7 @@ Display an Adopt-a-Pet.com pet of the day for a US zip code in a widget.
 
 == Description ==
 
-This plugin creates a widget to display a "pet of the day" for a given US or Canadian postal code, powered by Adopt-a-Pet.com.
+This plugin creates a widget to display an adoptable "pet of the day" for a given US or Canadian postal code, powered by Adopt-a-Pet.com.
 
 When a user clicks on the pet image or the details button, they'll be taken to that pet's profile on Adopt-a-Pet.com in a new browser window or tab.
 
