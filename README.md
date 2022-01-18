@@ -2,7 +2,7 @@
 
 > Display an Adopt-a-Pet.com pet of the day for a US zip code in a widget.
 
-[![Support Level](https://img.shields.io/badge/support-active-green.svg)](#support-level) [![Release Version](https://img.shields.io/github/tag/ChrisHardie/pet-of-the-day-widget.svg?label=release)](https://github.com/ChrisHardie/pet-of-the-day-widget/releases/latest) ![WordPress tested up to version](https://img.shields.io/wordpress/plugin/tested/pet-of-the-day-widget) [![GPLv2 License](https://img.shields.io/github/license/ChrisHardie/pet-of-the-day-widget.svg)](https://github.com/ChrisHardie/pet-of-the-day-widget/blob/master/LICENSE) [![Follow @ChrisHardie](https://img.shields.io/twitter/follow/ChrisHardie?style=social)](https://twitter.com/ChrisHardie)
+[![Support Level](https://img.shields.io/badge/support-inactive-lightgrey.svg)](#support-level) [![Release Version](https://img.shields.io/github/tag/ChrisHardie/pet-of-the-day-widget.svg?label=release)](https://github.com/ChrisHardie/pet-of-the-day-widget/releases/latest) ![WordPress tested up to version](https://img.shields.io/wordpress/plugin/tested/pet-of-the-day-widget) [![GPLv2 License](https://img.shields.io/github/license/ChrisHardie/pet-of-the-day-widget.svg)](https://github.com/ChrisHardie/pet-of-the-day-widget/blob/master/LICENSE) [![Follow @ChrisHardie](https://img.shields.io/twitter/follow/ChrisHardie?style=social)](https://twitter.com/ChrisHardie)
 
 ## Description
 
@@ -30,7 +30,7 @@ Pet of the Day Widget is most easily installed automatically via the Plugins tab
 
 ## Support Level
 
-**Active:** I actively maintain this project, and expect to continue work for the foreseeable future including keeping tested up to the most recent version of WordPress.  Bug reports, feature requests, questions, and pull requests are welcome.
+**Inactive:** I no longer actively maintain this project, and do not expect to provide any additional updates or features, including testing against newer versions of WordPress.  Bug reports, questions, and pull requests are welcome but may not be handled or responded to in a timely manner or at all.
 
 ## Contributing
 
