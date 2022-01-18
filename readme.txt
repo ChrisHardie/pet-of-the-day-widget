@@ -1,6 +1,6 @@
 === Pet of the Day Widget ===
 Contributors: chrishardie
-Tags: adoptable pets,adoption,pets,animals
+Tags: adoptable pets,adoption,pets,animals,adopt-me
 Requires at least: 3.0
 Tested up to: 5.8
 Version: 1.0
@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Display an Adopt-a-Pet.com pet of the day for a US zip code in a widget.
 
 == Description ==
+
+**NO LONGER SUPPORTED**: This plugin is no longer actively maintained or supported, and may be closed soon. [Read the announcement](https://tech.chrishardie.com/2022/ending-support-wordpress-plugins/).
 
 This plugin creates a widget to display an adoptable "pet of the day" for a given US or Canadian postal code, powered by Adopt-a-Pet.com.
 
